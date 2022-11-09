@@ -1,0 +1,12 @@
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\bin\Debug\net5.0\WebProyecto.Utilidades.deps.json
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\bin\Debug\net5.0\WebProyecto.Utilidades.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\bin\Debug\net5.0\ref\WebProyecto.Utilidades.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\bin\Debug\net5.0\WebProyecto.Utilidades.pdb
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\obj\Debug\net5.0\WebProyecto.Utilidades.csproj.AssemblyReference.cache
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\obj\Debug\net5.0\WebProyecto.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\obj\Debug\net5.0\WebProyecto.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\obj\Debug\net5.0\WebProyecto.Utilidades.AssemblyInfo.cs
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\obj\Debug\net5.0\WebProyecto.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\obj\Debug\net5.0\WebProyecto.Utilidades.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\obj\Debug\net5.0\ref\WebProyecto.Utilidades.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Utilidades\obj\Debug\net5.0\WebProyecto.Utilidades.pdb

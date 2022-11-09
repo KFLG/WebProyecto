@@ -1,0 +1,12 @@
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\bin\Debug\net5.0\WebProyecto.Modelos.deps.json
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\bin\Debug\net5.0\WebProyecto.Modelos.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\bin\Debug\net5.0\ref\WebProyecto.Modelos.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\bin\Debug\net5.0\WebProyecto.Modelos.pdb
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\obj\Debug\net5.0\WebProyecto.Modelos.csproj.AssemblyReference.cache
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\obj\Debug\net5.0\WebProyecto.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\obj\Debug\net5.0\WebProyecto.Modelos.AssemblyInfoInputs.cache
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\obj\Debug\net5.0\WebProyecto.Modelos.AssemblyInfo.cs
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\obj\Debug\net5.0\WebProyecto.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\obj\Debug\net5.0\WebProyecto.Modelos.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\obj\Debug\net5.0\ref\WebProyecto.Modelos.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.Modelos\obj\Debug\net5.0\WebProyecto.Modelos.pdb

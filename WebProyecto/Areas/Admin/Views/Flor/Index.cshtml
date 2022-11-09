@@ -1,0 +1,58 @@
+﻿<br />
+<br />
+@*<div class="container">
+        <div class="row">
+        <div class="col-12">
+        <h2 class="text-primary text-center">Lista de Categorías</h2>
+        </div>
+        </div>
+        <div class="row">
+        <div class="col-12 col-md-6 text-right">
+        <a class="btn btn-primary rounded-pill" asp-action="Upsert">
+        <i class="fas fa-plus"> Crear nuevo producto </i>
+        </a>
+
+        <a asp-action="ImprimirCategorias" class="btn btn-warning"
+     asp-route-id="@Model" target="_blank">
+     <i class="fas fa-print"></i>
+     Imprimir
+     </a>
+     </div>
+     </div>
+    </div*@>
+
+
+<div class="container mt-5">
+    <div class="row mt-2">
+        <div class="col-md-6 col-6">
+            <h3 class="text-primary ml-2">Lista de Flores</h3>
+        </div>
+        <div class="col-md-6 col-6 text-right">
+            <a class="btn btn-primary" asp-action="Upsert">
+                <i class="fas fa-plus"> Crear nueva flor </i>
+            </a>
+            <a asp-action="ImprimirFlores" class="btn btn-warning"
+               asp-route-id="@Model" target="_blank">
+                <i class="fas fa-print"></i>
+                Imprimir
+            </a>
+        </div>
+    </div>
+</div>
+<div class="p-4 border-rounded">
+    <table id="tblDatos" class="table table-responsive-md table-bordered mt-2"
+           style="width:100%">
+        <thead class="thead-dark">
+            <tr class="table-info text-center">
+                <th style="max-width:7%">Numero Serie</th>
+                <th style="max-width:50%">Descripcion</th>
+                <th style="max-width:15%">CategoriaFlor</th>
+                <th style="max-width:7%;">Precio</th>
+                <th style="max-width:8%">Operación</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+@section Scripts{
+    <script src="~/js/flor.js"></script>
+}

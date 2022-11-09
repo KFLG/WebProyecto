@@ -1,0 +1,15 @@
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\bin\Debug\net5.0\WebProyecto.AccesoDatos.deps.json
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\bin\Debug\net5.0\WebProyecto.AccesoDatos.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\bin\Debug\net5.0\ref\WebProyecto.AccesoDatos.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\bin\Debug\net5.0\WebProyecto.AccesoDatos.pdb
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\bin\Debug\net5.0\WebProyecto.Modelos.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\bin\Debug\net5.0\WebProyecto.Modelos.pdb
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\obj\Debug\net5.0\WebProyecto.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\obj\Debug\net5.0\WebProyecto.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\obj\Debug\net5.0\WebProyecto.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\obj\Debug\net5.0\WebProyecto.AccesoDatos.AssemblyInfo.cs
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\obj\Debug\net5.0\WebProyecto.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\obj\Debug\net5.0\WebProyecto.AccesoDatos.csproj.CopyComplete
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\obj\Debug\net5.0\WebProyecto.AccesoDatos.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\obj\Debug\net5.0\ref\WebProyecto.AccesoDatos.dll
+C:\Users\Estudiantes UNA\Source\Repos\WebProyecto\WebProyecto.AccesoDatos\obj\Debug\net5.0\WebProyecto.AccesoDatos.pdb
